@@ -1,0 +1,9 @@
+[submodule "convai"]
+	path = convai
+	url = https://github.com/paper2code/transfer-learning-conv-ai
+[submodule "parlai"]
+	path = parlai
+	url = https://github.com/paper2code/ParlAI
+[submodule "gpt2bot"]
+	path = gpt2bot
+	url = https://github.com/paper2code/gpt2bot
